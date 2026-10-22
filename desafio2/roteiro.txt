@@ -1,9 +1,6 @@
 Visita à praia
 Passeio ao museu
 Apresentação musical
-<<<<<<< HEAD
 Visita ao centro histórico
-=======
 Passeio de barco
 Jantar especial
->>>>>>> modificacao
